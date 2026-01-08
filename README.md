@@ -1,2 +1,2 @@
-# examplepython
+# examplerepo
 an example repository
